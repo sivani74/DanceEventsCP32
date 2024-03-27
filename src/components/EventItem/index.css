@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.event-item {
+  width: 45%;
+  border-radius: 5px;
+  margin-right: 5px;
+  margin-bottom: 8px;
+}
+
+.event-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.event-image {
+  width: 100%;
+}
+.active {
+  border: 2px solid green;
+}
+
+.name {
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.location {
+  font-size: 12px;
+  margin-top: 2px;
+}
